@@ -28,7 +28,7 @@ A comprehensive deep learning system for automated car damage detection using in
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/Astrasv/Car_Damage_Detection_MASKRCNN
+git clone https://github.com/Astrasv/Car-Damage-Detection-MaskRCNN
 cd car-damage-detection
 ```
 
