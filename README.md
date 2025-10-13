@@ -338,7 +338,3 @@ car-damage-detection/
 - Contributors and testers
 
 ---
-
-**Happy Coding! 🚗✨**
-
-For more information, visit our [project page](https://github.com/your-username/car-damage-detection) or check out the [demo video](https://your-demo-link.com).
